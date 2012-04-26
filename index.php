@@ -66,7 +66,7 @@ if ($user) {
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# [APPNAME]: http://ogp.me/ns/fb/[APPNAME]#">
   <meta property="fb:app_id"      content="  [APPID]" /> 
   <meta property="og:type"        content="[APPNAME]:[APPOBJECTNAME]" /> 
-  <meta property="og:url"         content="[URL TO THIS CRIPT]" /> 
+  <meta property="og:url"         content="[URL TO THIS SCRIPT]" /> 
   <meta property="og:title"       content="OBJECT TITLE" /> 
   <meta property="og:description" content="" /> 
   <meta property="og:image"       content="[IMAGEPATH]" />
