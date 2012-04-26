@@ -29,7 +29,7 @@ Examples highlight simple implementations of:
 
 Some Quick Links:
 =================
-FB Documentation: https://developers.facebook.com/docs/
-FB Permissions List: https://developers.facebook.com/docs/authentication/permissions/
-FB Debugger and Page Cache Remover: https://developers.facebook.com/tools/debug
-Developer roadmap: http://developers.facebook.com/roadmap/
+* FB Documentation: https://developers.facebook.com/docs/
+* FB Permissions List: https://developers.facebook.com/docs/authentication/permissions/
+* FB Debugger and Page Cache Remover: https://developers.facebook.com/tools/debug
+* Developer roadmap: http://developers.facebook.com/roadmap/
