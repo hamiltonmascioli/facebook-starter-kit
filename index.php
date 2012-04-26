@@ -7,6 +7,24 @@
 * @since Version 0.1
 */
 /**
+* Examples highlight simple implementations of:
+* Timeline
+* Ref Plugin
+* Authentication
+* Like
+* Send
+* Subscribe
+* Comments
+* Activity Feed
+* Recommendations
+* Like Box
+* Login Button
+* Registration
+* Facepile
+* Livestream
+* News Feed (Publish to Wall)
+* Requests
+*
 * Some Quick Links:
 * =================
 * FB Documentation: https://developers.facebook.com/docs/
